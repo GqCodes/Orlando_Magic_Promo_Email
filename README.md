@@ -7,4 +7,4 @@ CSS
 
 
 ![](/Final%20Images/responsive.png)
-![](/images/bucks.png)
+![](/images/completed-image.png)
