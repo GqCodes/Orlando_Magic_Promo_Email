@@ -6,6 +6,6 @@ Technologies used:
 # Desktop View
 ![](/images/completed-image.png)
 
-#Mobile View
+# Mobile View
 ![](/images/completed-mobile.png)
 
